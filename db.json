@@ -23,6 +23,12 @@
       "day": "Sunday 8th at 12:45pm",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "finishing the to do app",
+      "day": "today",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
